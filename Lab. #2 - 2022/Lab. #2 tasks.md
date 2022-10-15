@@ -318,4 +318,4 @@ YES
 
 2
 
-[1]: https://pic.sort-me.org/b446fc8c-c32e-4186-9d41-f72f61d0a0df
+[1]: https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/Pseudo%20QS%20code.png?raw=true
