@@ -13,7 +13,7 @@
 5. [Задача E](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%231%20-%202022/task-E.cpp)
 6. [Задача F](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%231%20-%202022/task-F.cpp)
 
-### Лабораторная №2
+### Лабораторная №2 ([условия задач](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%231%20-%202022/Lab.%20%231%20tasks.md))
 1. [Вставка числа](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-A.cpp)  |  ([через обычный массив](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-A-ver.0.cpp))
 2. [Сортировка вставками](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-B.cpp)
 3. [Экспедиция](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-C.cpp)
