@@ -14,17 +14,17 @@
 6. [Задача F](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%231%20-%202022/task-F.cpp)
 
 ### Лабораторная №2
-1. [Вставка числа]() | ([через обычный массив]())
-2. [Сортировка вставками]()
-3. [Экспедиция]()
-4. [Библиотечный метод]()
-5. [Результаты олимпиады]()
-6. [Сортировка слиянием]()
-7. [Похожие массивы]()
-8. [Забор]()
-9. [Быстрая сортировка]()
-10. [Анти-quicksort]()
-11. [K-ая порядковая статистика]() | (через полную сортировку)
+1. [Вставка числа](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-A.cpp)  |  ([через обычный массив](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-A-ver.0.cpp))
+2. [Сортировка вставками](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-B.cpp)
+3. [Экспедиция](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-C.cpp)
+4. [Библиотечный метод](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-D.cpp)
+5. [Результаты олимпиады](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-E.cpp)
+6. [Сортировка слиянием](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-F.cpp)
+7. [Похожие массивы](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-G.cpp)
+8. [Забор](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-H.cpp)
+9. [Быстрая сортировка](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-I.cpp)
+10. [Анти-quicksort](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-J.cpp)
+11. [K-ая порядковая статистика](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-K.cpp)  |  ([через полную сортировку](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-K-ver.0.cpp))
 
 ### Лабораторная №3
 1. Очередь
