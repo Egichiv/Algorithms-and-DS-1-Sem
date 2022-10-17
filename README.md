@@ -26,7 +26,7 @@
 10. [Анти-quicksort](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-J.cpp)
 11. [K-ая порядковая статистика](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-K.cpp)  |  ([через полную сортировку](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%232%20-%202022/task-K-ver.0.cpp))
 
-### Лабораторная №3
+### Лабораторная №3 ([условия задач](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%233%20-%202022/Lab.%20%233%20tasks.md))
 1. Очередь
 2. Стек
 3. Правильная скобочная последовательность
