@@ -5,7 +5,7 @@
 * (*Возможно я ещё накину сами условия задач из лабораторок.*) - **DONE**
 * (*Возможно я ещё накину перевод условий задач из лабораторок.*)
 
-### Лабораторная №1 ([условия задач](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%231%20-%202022/Lab.%20%232%20tasks.md))
+### Лабораторная №1 ([условия задач](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%231%20-%202022/Lab.%20%231%20tasks.md))
 1. [Последняя цифра](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%231%20-%202022/task-A.cpp)
 2. [Циклический сдвиг вправо](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%231%20-%202022/task-B.cpp)
 3. [Ревизия](https://github.com/Egichiv/Algorithms-and-DS-1-Sem/blob/main/Lab.%20%231%20-%202022/task-C.cpp)
